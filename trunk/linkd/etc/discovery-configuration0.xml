@@ -1,0 +1,8 @@
+<discovery-configuration threads="1" packets-per-second="1" initial-sleep-time="6000" restart-sleep-time="86400000" retries="1" timeout="2000">
+
+        <include-range>
+                <begin>172.12.189.1</begin>
+                <end>172.17.189.254</end>
+        </include-range>
+
+</discovery-configuration>
